@@ -1,0 +1,52 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 30px 10px; }
+
+h1,
+h2 {
+  text-align: center;
+  margin: 0; }
+
+h1 {
+  font-size: 20px; }
+
+h2 {
+  font-size: 17px; }
+
+#main {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  height: 200px; }
+
+.drop-region {
+  fill: red; }
+
+.c3 .c3-axis path, .c3 .c3-axis line {
+  display: none; }
+
+.c3-legend-background {
+  display: none; }
+
+.c3-legend-item-GER:before {
+  position: absolute;
+  display: block;
+  width: 10px;
+  height: 10px;
+  background: red; }
+
+.flag {
+  width: 16px;
+  height: auto; }
+
+.footer {
+  font-size: 12px;
+  text-align: center;
+  color: #bbb; }
+  .footer a,
+  .footer a:visited {
+    color: #bbb;
+    text-decoration: none;
+    font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */
